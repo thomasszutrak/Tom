@@ -1,0 +1,11 @@
+body {
+    background-color: lemonchiffon;
+    font-size: 150%;
+}
+button {
+    background-color: rgb(255, 231, 152);
+    color:rgb(255, 255, 255);
+    padding: 20px 40px;
+    border-radius: 5px;
+    border: 5px snow;
+}
